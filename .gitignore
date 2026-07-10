@@ -27,7 +27,9 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Output
+outputs/
+*.mp4
+
 # Project specific
 posters/*.png
-tmp_*.png
-tmp_*.py
